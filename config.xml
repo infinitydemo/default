@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.reconomy.epod.poc" version="1.0.2">
     <name>ReconomyEpod</name>
-    <description>
-            CommonTime Infinity Client
-        </description>
+    <description>Proof of Delivery application</description>
     <content src="index.html"/>
 <!-- Global Preferences -->
     <preference name="phonegap-version" value="cli-6.3.0"/>
